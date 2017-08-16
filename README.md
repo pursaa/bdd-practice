@@ -22,7 +22,7 @@
 
 Setup/Installation Requirements
 
-* _Clone the repository "bdd-practice_
+* _Clone the repository bdd-practice_
 * _Open html in web browser_
 * _Click the find out button_
 
@@ -31,16 +31,15 @@ Setup/Installation Requirements
 
 _No known bugs at this time_
 
-_s
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_If you run into any issues or have questions, ideas or concerns, Please contact me at debbiemichel1633@gmail.com.  _
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_This app was built using javascript_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*MIT*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 **_Epicodus Training_**
